@@ -1,0 +1,19 @@
+.navbar {
+  float: right;
+}
+.navbar-nav {
+  background-color: black;
+}
+.nav-item {
+  color: white;
+}
+.navbar2 {
+  list-style: none;
+}
+.navbar2_item {
+  color: white;
+}
+.img {
+  width: 200;
+  height: 400;
+}
